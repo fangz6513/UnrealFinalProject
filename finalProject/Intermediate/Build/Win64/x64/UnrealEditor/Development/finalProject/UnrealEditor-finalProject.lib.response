@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-finalProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\zfang6513\Documents\Unreal Projects\finalProject\Intermediate\Build\Win64\x64\finalProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\zfang6513\Documents\Unreal Projects\finalProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\finalProject\finalProject.init.gen.cpp.obj"
+"C:\Users\zfang6513\Documents\Unreal Projects\finalProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\finalProject\finalProjectGameModeBase.gen.cpp.obj"
+"C:\Users\zfang6513\Documents\Unreal Projects\finalProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\finalProject\finalProject.cpp.obj"
+"C:\Users\zfang6513\Documents\Unreal Projects\finalProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\finalProject\finalProjectGameModeBase.cpp.obj"
+"C:\Users\zfang6513\Documents\Unreal Projects\finalProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\finalProject\Default.rc2.res"
+/OUT:"C:\Users\zfang6513\Documents\Unreal Projects\finalProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\finalProject\UnrealEditor-finalProject.lib"

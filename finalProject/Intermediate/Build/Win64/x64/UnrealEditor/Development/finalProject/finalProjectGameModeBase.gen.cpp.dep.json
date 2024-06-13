@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zfang6513\\documents\\unreal projects\\finalproject\\intermediate\\build\\win64\\unrealeditor\\inc\\finalproject\\uht\\finalprojectgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zfang6513\\documents\\unreal projects\\finalproject\\intermediate\\build\\win64\\x64\\finalprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\zfang6513\\documents\\unreal projects\\finalproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\finalproject\\definitions.finalproject.h",
+            "c:\\users\\zfang6513\\documents\\unreal projects\\finalproject\\source\\finalproject\\finalprojectgamemodebase.h",
+            "c:\\program files\\epic games\\5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\zfang6513\\documents\\unreal projects\\finalproject\\intermediate\\build\\win64\\unrealeditor\\inc\\finalproject\\uht\\finalprojectgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
